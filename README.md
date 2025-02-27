@@ -9,3 +9,7 @@ docker run --name vr_test -p 3306:3306 -e MYSQL_ROOT_PASSWORD=123456 -e MYSQL_US
 
 # start API
 npm run start
+```
+
+
+![screenshot](er_diagram.png)
